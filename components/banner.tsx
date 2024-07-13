@@ -13,14 +13,14 @@ export default function Banner() {
             <div className="text-slate-500 inline-flex">
               <a
                 className="font-medium hover:underline text-slate-50"
-                href="https://github.com/cruip/open-react-template"
+                href=""
                 target="_blank"
                 rel="noreferrer"
               >
                 Download<span className="hidden sm:inline"> on GooglePlay</span>
               </a>{' '}
               <span className="italic px-1.5">|</span>{' '}
-              <a className="font-medium hover:underline text-emerald-400" href="https://cruip.com/open-pro/" target="_blank" rel="noreferrer">
+              <a className="font-medium hover:underline text-emerald-400" href="" target="_blank" rel="noreferrer">
                 Try our Premium Version!
               </a>
             </div>
